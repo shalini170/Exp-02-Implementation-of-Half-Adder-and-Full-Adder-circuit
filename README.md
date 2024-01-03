@@ -37,18 +37,47 @@ If the output is 1, then the led glows.
 ### 
 Program:
 /*
-Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+##Half adder
+
+![Screenshot 2024-01-03 023851](https://github.com/shalini170/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151901983/5b122abe-a919-43f5-bcc0-28a71ee0d0da)
+
+##Full adder
+
+![Screenshot 2024-01-03 023902](https://github.com/shalini170/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151901983/0120b2db-9bd3-42fb-b947-5a0effb7b374)
+
+##RTL
+
+![Screenshot 2024-01-03 023909](https://github.com/shalini170/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151901983/e0edd927-8185-4d54-b2b9-e8e0ba2d9012)
+
+![Screenshot 2024-01-03 023918](https://github.com/shalini170/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151901983/f72dd9a6-1d57-4ee6-8f2e-55c822b8e187)
+
+##Truth table
+
+![Screenshot 2024-01-03 023952](https://github.com/shalini170/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151901983/c47eb109-5786-4f22-8f67-78f61da6f149)
+
+
+![Screenshot 2024-01-03 023958](https://github.com/shalini170/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151901983/4b71af25-9418-4730-b870-f911f9a80a29)
+
+##Output
+
+![Screenshot 2024-01-03 023933](https://github.com/shalini170/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151901983/661290dc-ca67-44de-8531-d20647a9b7c9)
+
+![Screenshot 2024-01-03 023943](https://github.com/shalini170/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151901983/8d68b14e-2f50-49ac-a58b-7c5e723b05df)
+
+
+
+
+
+
+
+
+Developed by: shalini venkatesulu
+RegisterNumber:  23001992
 */
-Logic symbol & Truthtable
-RTL realization
-
-### Output:
-### RTL
-### TIMING DIAGRAM
 
 
-### TRUTH TABLE 
 
-### Result:
+
+
+### Result 
+To design a half adder and full adder circuit and verify its truth table in quatus using verilog programming
